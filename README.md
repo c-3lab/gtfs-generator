@@ -1,2 +1,2 @@
 # gtfs-generator
-GTFS generator project for schedule (static) files.
+GTFS generator with generative AI project for schedule (static) files.
